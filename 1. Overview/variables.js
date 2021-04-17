@@ -1,0 +1,1 @@
+var my_variable = 32;
