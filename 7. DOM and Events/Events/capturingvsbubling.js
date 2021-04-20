@@ -1,0 +1,1 @@
+x.addEventListener("click", func, true);
